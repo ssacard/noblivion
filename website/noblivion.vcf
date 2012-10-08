@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.8.2//EN
+N:;;;;
+FN:Noblivion (fast and reliable lending system)
+ORG:Noblivion (fast and reliable lending system);
+item1.EMAIL;type=INTERNET;type=pref:push@noblivion.com
+item1.X-ABLabel:_$!<Other>!$_
+NOTE:put in the subject line the thing you want to lend to your friend\, and optionnally in CC his/her email. \n\nYou will both receive weekly reminders. 
+X-ABShowAs:COMPANY
+UID:e29a8a81-0dd7-494a-8f5b-ca487cd9b9be
+X-ABUID:E29A8A81-0DD7-494A-8F5B-CA487CD9B9BE:ABPerson
+END:VCARD

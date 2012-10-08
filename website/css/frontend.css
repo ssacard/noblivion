@@ -1,0 +1,15 @@
+.marketing h1, .marketing .iphone, .cta {
+  margin-top: 20px;
+}
+
+.marketing h2 {
+  margin-bottom: 20px;
+}
+
+footer {
+  color: #444;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #F4F4F4;
+}
